@@ -1,0 +1,9 @@
+# Ne pas committer les dépendances
+node_modules/
+  
+# Ne pas committer les fichiers de config sensibles
+.env
+
+# Ne pas committer les fichiers de logs
+logs/
+npm-debug.log*
